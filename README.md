@@ -2,6 +2,8 @@
 # 💫 About Me:
 Full Stack Engineer | Mobile Specialist | CS FINALIST<br><br>I don’t just write code; I ship products that live on people’s devices.<br><br>With a background in computer science and data analytics, I’ve spent the last few years bridging the gap between high-performance mobile apps and scalable web architectures. I’m fascinated by how data moves through a system—from a sleek React frontend to a robust Node.js backend and into the hands of a user via Android.
 
+[![Portfolio Website](https://strong-loader-42129595.figma.site/)]
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552112156597) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadheriac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-nadheria-b8bb76374)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadheriachirag@gmail.com) 
